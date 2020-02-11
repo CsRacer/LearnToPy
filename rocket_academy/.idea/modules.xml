@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/rocket_academy.iml" filepath="$PROJECT_DIR$/.idea/rocket_academy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocket_science_1_0/.idea/rocket_science_1_0.iml" filepath="$PROJECT_DIR$/../rocket_science_1_0/.idea/rocket_science_1_0.iml" />
+    </modules>
+  </component>
+</project>
