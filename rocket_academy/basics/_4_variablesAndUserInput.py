@@ -17,7 +17,7 @@ autobahn_raststaetten_parkplatz_toilleten_spuehlungs_knopf_status = "aktiv"
 #camelCase
 autobahnRaststaettenParkplatzToilletenSpuehlungsKnopfFarbe = "rot"
 #PascalCase
-AutobahnRaststaettenParkplatzToilletenSpuehlungsKnopfPosition = "rot"
+AutobahnRaststaettenParkplatzToilletenSpuehlungsKnopfPosition = "Zentral"
 
 # Variablen werden bei der ersten Zuweisung in den Speicher geladen bzw. erstellt.
 
@@ -59,4 +59,6 @@ print(_x)
 
 print("Das Auto meiner traeume ist ein "+auto)
 print("Das Auto meiner traeume ist ein " + auto * 3)
+
+
 
