@@ -57,6 +57,7 @@ print("Die Mission beginnt in t% d Sekunden." % -100)
 print("Hallo mein Name ist {}".format("Alice"))
 print("Ich bin {} Jahre alt".format(35))
 print("Meine {} beinhaltet einen {} ".format("Magickartensammlung", "Black Lotus (Proxy)"))
+"Hallo, {1}. Seit unserem letzten Treffen sind sicher {0} vergangen.".format(numYears, name)
 
 print("\n\n\n\n\n\n\n")
 ########################
